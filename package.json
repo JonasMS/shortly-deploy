@@ -9,7 +9,8 @@
     "node": ">=4.0.0"
   },
   "scripts": {
-    "start": "grunt lint && grunt test && grunt build && grunt upload",
+    "start": "grunt build && grunt upload",
+    "deploy": "grunt deploy",
     "test": "grunt test",
     "lint": "grunt lint"
   },
