@@ -20,6 +20,7 @@
     "bookshelf": "^0.9.1",
     "chai": "^3.5.0",
     "cookie-parser": "^1.4.1",
+    "core-js": "^2.4.0",
     "ejs": "^2.4.1",
     "eslint-config-hackreactor": "git://github.com/hackreactor-labs/eslint-config-hackreactor",
     "express": "^4.13.4",
